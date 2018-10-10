@@ -22,7 +22,7 @@ paginate = 10
     weight = 10
 
 [[menu.main]]
-    name = "Casas"
+    name = "Casas en Venta"
     url  = "/casas/"
     weight = 30
 
